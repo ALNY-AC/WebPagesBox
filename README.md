@@ -9,6 +9,10 @@ http://120.78.162.200:12138/Angsir/index.php
 后：
 http://120.78.162.200:12138/Angsir/index.php/Admin/Login/login.html
 
+上线地址：
+http://47.100.15.40/index.php
+
+
 ----
 ## finance财金通教育
 
